@@ -5,7 +5,6 @@
 		<a href="#fbr-navigation" class="nav-trigger">
 			<span>
 				<em aria-hidden="true"></em>
-				Menu
 			</span>
 		</a>
 		<ul id="fbr-navigation" class="nav">
